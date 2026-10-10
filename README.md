@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Vision - Condition-Aware Object Detection
 
     pip install -r requirements.txt
@@ -23,3 +24,6 @@ The dashboard runs even before any model is connected.
 
 ## Reliability check
 Plug in your logic with `register_reliability_checker(fn)` in `pipeline/detector.py`.
+=======
+# conditional-weather-object-detection
+>>>>>>> 4f9b4a5bc00cbdb8a252f68dfa4e5ab7bf860543
